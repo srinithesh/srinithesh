@@ -62,14 +62,12 @@ automation for security.
 
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)
+![LinkedIn] https://www.linkedin.com/in/k-sri-nithesh-8405a2386?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ](your-linkedin-url)
 [
 
-![Email](https://img.shields.io/badge/Email-red)
-
-](mailto:youremail@gmail.com)
+![Email] k.srinithesh56@gmail.com
 
 ---
 
