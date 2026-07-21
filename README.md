@@ -121,22 +121,22 @@ randomization to evade traditional ML-based detectors.
 
 
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) - learning
 
 
 
 
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=flat&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=flat&logo=metasploit&logoColor=white)  - learning
 
 
 
 
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat) - learning
 
 
 
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) - learning
 
 
 
@@ -149,7 +149,7 @@ randomization to evade traditional ML-based detectors.
 
 
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) - learning
 
 
 
@@ -167,17 +167,17 @@ randomization to evade traditional ML-based detectors.
 
 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) - planned
 
 
 
 
-![NetworkX](https://img.shields.io/badge/NetworkX-013243?style=flat)
+![NetworkX](https://img.shields.io/badge/NetworkX-013243?style=flat) - learning
 
 
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) - learning
 
 
 
